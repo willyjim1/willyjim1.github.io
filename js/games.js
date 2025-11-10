@@ -2,12 +2,12 @@
 const games = [
     {
         name: "2048",
-        thumbnail: "games/favicon.ico",
+        thumbnail: "games/2048/favicon.ico",
         url: "games/index.html"
     },
     {
         name: "Cookie Clicker",
-        thumbnail: "games/cookie_clicker.png",
+        thumbnail: "games/cookieclicker/index.png",
         url: "games/index.html"
     },
     {
