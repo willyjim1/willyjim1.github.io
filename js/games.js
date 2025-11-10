@@ -2,13 +2,13 @@
 const games = [
     {
         name: "2048",
-        thumbnail: "games/2048.png",
-        url: "games/2048.html"
+        thumbnail: "games/favicon.ico",
+        url: "games/index.html"
     },
     {
         name: "Cookie Clicker",
         thumbnail: "games/cookie_clicker.png",
-        url: "games/cookie_clicker.html"
+        url: "games/index.html"
     },
     {
         name: "Game 3",
